@@ -1,0 +1,10 @@
+package com.example.mynews
+
+
+data class News(
+        val title:String,
+        val author:String,
+        val url:String,
+        val imagrUrl:String
+    )
+
